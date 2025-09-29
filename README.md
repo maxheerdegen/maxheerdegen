@@ -1,7 +1,6 @@
 # Hi there, I’m Max 👋  
 
-💻 Mechanical engineer turned **web developer** — I enjoy solving problems and turning ideas into working apps. 
-
+💻 Mechanical engineer turned **web developer** — I enjoy solving problems and turning ideas into working apps.  
 🌍 Currently transitioning into full-stack development with a focus on **React**, **Node.js**, **Prisma**, and **PostgreSQL**.  
 🎯 My goal: combine my engineering background with web development to build solid, practical software. 
 
